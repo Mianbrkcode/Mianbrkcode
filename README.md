@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mianbrkcode
+- 👋 Hi, I’m @Mian Christopher Dimatulac
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning frameworks like angular
 - 💞️ I’m looking to collaborate on ...
